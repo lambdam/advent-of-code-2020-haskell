@@ -1,0 +1,14 @@
+name:                aoc2020
+version:             0.1.0.0
+# github:              "mstksg/advent-of-code-2020"
+# license:             BSD3
+# author:              "Justin Le"
+# maintainer:          "justin@jle.im"
+# copyright:           "(c) Justin Le 2018"
+
+
+library:
+  source-dirs: src
+  dependencies:
+    - regex-base
+    - regex-tdfa
